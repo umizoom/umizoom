@@ -1,6 +1,7 @@
 - Hi, I’m Umaid.
 - I’m interested in CI/CD pipelines, build infrastrcture, container technology and Python.
 - 🌱 I’m currently learning more about Python, OOP and Ruby. 
+- [Git lab profile](https://gitlab.com/umaidabbasi)
 
 
 <!---
