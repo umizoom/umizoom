@@ -1,6 +1,6 @@
 - Hi, I’m Umaid.
-- I’m interested in CI/CD pipelines, build infrastrcture, container technology and Python.
-- 🌱 I’m currently learning more about Python, OOP and Ruby. 
+- I’m interested in kubernetes and container technology
+- 🌱 I’m currently learning more about kubernetes and scaleable infrastructure
 - [Git lab profile](https://gitlab.com/umaidabbasi)
 
 
